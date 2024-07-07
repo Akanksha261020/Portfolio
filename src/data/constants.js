@@ -167,7 +167,7 @@ export const projects = [
       "Google Map API",
     ],
     category: "Others",
-    github: "https://github.com/maheeshamaduwantha/Island-Way-Mobile-App",
+    github: "https://github.com/Akanksha261020/Scholar-Lane",
     webapp: "https://scholar-lane.vercel.app/",
   },
   {
@@ -187,21 +187,21 @@ export const projects = [
       "jQuery",
     ],
     category: "React",
-    github: "https://github.com/maheeshamaduwantha/Online-Bus-Ticket-Booking-Web-Application",
+    github: "https://github.com/Akanksha261020/Eat-Moree",
     webapp: "https://eat-moree.vercel.app/",
   },
   {
     id: 2,
-    title: "Portfolio Website - React Js",
-    date: "June 2024 - June 2024",
+    title: "Portfolio-React Js",
+
     description:
       "Developed a personal portfolio website using React Js, showcasing projects and skills. Implemented modern web technologies like HTML5, CSS3, and JavaScript. Integrated Git for version control.",
     image:
-      "https://raw.githubusercontent.com/maheeshamaduwantha/portfolio_website_V2/main/src/images/Cover%20Image.png",
+      "Portfolio.png",
     tags: ["React Js", "HTML5", "CSS3", "JavaScript", "Git"],
-    category: "web app",
-    github: "https://github.com/maheeshamaduwantha/portfolio_website_V2",
-    webapp: "",
+    category: "React",
+    github: "https://github.com/Akanksha261020/Portfolio",
+    webapp: "https://portfolio12-alpha.vercel.app/",
   },
   {
     id: 3,
@@ -213,7 +213,7 @@ export const projects = [
       "RecipeLookup.png",
     tags: ["Java", "Firebase ML Kit"],
     category: "Others",
-    github: "https://github.com/maheeshamaduwantha/Scan-Me-QR-Code-Scanner",
+    github: "https://github.com/Akanksha261020/RecipeLookup",
     webapp: "https://recipe-lookup-nu.vercel.app/",
   },
   {
