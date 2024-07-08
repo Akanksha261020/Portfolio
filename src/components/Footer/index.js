@@ -96,7 +96,7 @@ function Footer() {
         </Nav>
         <SocialMediaIcons>
          
-          <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
+          <a href="https://www.linkedin.com/in/akanksha-s-686439302" target="_blank">  <SocialMediaIcon> <LinkedInIcon /></SocialMediaIcon></a>
           <SocialMediaIcon href={Bio.github} target="display"><GitHubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
