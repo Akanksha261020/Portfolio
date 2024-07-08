@@ -6,7 +6,7 @@ export const Bio = {
     "UI/UX Designer",
   ],
   description:
-    "Experienced Frontend Developer with over 4.5 years of experience building and maintaining responsive web applications with React.js, Vue.js, HTML, and CSS. Proficient with TypeScript, Node.js, and state management frameworks like as Redux, with a special focus on creating dynamic and scalable apps. Capable of using modern front-end development tools, working with RESTful APIs, and improving user experience through wireframing and prototyping.",
+    "Experienced Frontend Developer with over 5 years of experience building and maintaining responsive web applications with React.js, Vue.js, HTML, and CSS. Proficient with TypeScript, Node.js, and state management frameworks like as Redux, with a special focus on creating dynamic and scalable apps. Capable of using modern front-end development tools, working with RESTful APIs, and improving user experience through wireframing and prototyping.",
   github: "https://github.com/Akanksha261020",
 
   linkedin: "www.linkedin.com/in/akanksha-s-686439302",
@@ -160,13 +160,12 @@ export const projects = [
     image:
       "ScholarLane.png",
     tags: [
-      "Flutter",
-      "Dart",
-      "Firebase",
-      "Firebase Realtime DB",
-      "Google Map API",
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "Swiper.js"
     ],
-    category: "Others",
+    category: "web app",
     github: "https://github.com/Akanksha261020/Scholar-Lane",
     webapp: "https://scholar-lane.vercel.app/",
   },
@@ -178,13 +177,7 @@ export const projects = [
     image:
       "Eatmoree.png",
     tags: [
-      "C#",
-      "ASP.NET",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap",
-      "jQuery",
+      "React JS", "React Hooks", "React Router", "Redux", "HTML5", "CSS3", "Tailwind", "Parcel", "Babel","Shimmer UI","Git"
     ],
     category: "React",
     github: "https://github.com/Akanksha261020/Eat-Moree",
@@ -198,7 +191,7 @@ export const projects = [
       "Developed a personal portfolio website using React Js, showcasing projects and skills. Implemented modern web technologies like HTML5, CSS3, and JavaScript. Integrated Git for version control.",
     image:
       "Portfolio.png",
-    tags: ["React Js", "HTML5", "CSS3", "JavaScript", "Git"],
+    tags: ["React Js", "HTML5", "CSS3", "JavaScript","Material UI" ,"Git"],
     category: "React",
     github: "https://github.com/Akanksha261020/Portfolio",
     webapp: "https://portfolio12-alpha.vercel.app/",
@@ -211,36 +204,14 @@ export const projects = [
       "",
     image:
       "RecipeLookup.png",
-    tags: ["Java", "Firebase ML Kit"],
-    category: "Others",
+    tags: [ "HTML5",
+      "CSS3",
+      "Javascript"],
+    category: "web app",
     github: "https://github.com/Akanksha261020/RecipeLookup",
     webapp: "https://recipe-lookup-nu.vercel.app/",
   },
-  {
-    id: 10,
-    title: "Agriculture Web Application",
-    date: "Dec 2023 - Dec 2023",
-    description:
-      "Developed a web application to support agricultural activities, including features for User management etc. Utilized HTML, CSS, JavaScript, PHP, and SCSS to create a user-friendly and responsive interface.",
-    image:
-      "https://raw.githubusercontent.com/maheeshamaduwantha/Agriculture-Web-Application/main/Cover%20Image.png",
-    tags: ["HTML", "CSS", "JavaScript", "PHP", "SCSS"],
-    category: "web app",
-    github: "https://github.com/maheeshamaduwantha/Agriculture-Web-Application",
-    webapp: "",
-  },
-  {
-    id: 4,
-    title: "Portfolio Website V1",
-    date: "Jul 2023",
-    description:
-      "Created the initial version of my personal portfolio website using HTML, CSS, and JavaScript. Designed a clean and responsive layout to showcase projects, skills, and achievements.",
-    image:
-      "https://raw.githubusercontent.com/maheeshamaduwantha/Portfolio_Website/main/Cover%20Image.png",
-    tags: ["HTML", "CSS", "JavaScript"],
-    category: "web app",
-    github: "https://github.com/maheeshamaduwantha/Portfolio_Website",
-    webapp: "",
-  },
+ 
+ 
 ];
 
