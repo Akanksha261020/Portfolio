@@ -160,6 +160,7 @@ const Contact = () => {
           onClose={() => setOpen(false)}
           message="Email sent successfully!"
           severity="success"
+          
         />
       </Wrapper>
     </Container>

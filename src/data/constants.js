@@ -156,7 +156,7 @@ export const projects = [
     id: 9,
     title: "Scholar Lane",
     description:
-      "",
+      "The Scholar Lane College Website is a comprehensive online platform designed to provide detailed information and essential services for a college. The website is built using HTML5, CSS3, JavaScript, and Swiper.js, ensuring a dynamic and user-friendly experience.",
     image:
       "ScholarLane.png",
     tags: [
@@ -173,7 +173,7 @@ export const projects = [
     id: 1,
     title: "Eat Moree",
     description:
-      "",
+      "Eat Moree is a food delivery website built using real-time APIs. I have developed a clone of the SWIGGY website by creating all the components from scratch. The website operates dynamically, showcasing the mouth-watering signature dishes from various restaurants.",
     image:
       "Eatmoree.png",
     tags: [
@@ -201,7 +201,7 @@ export const projects = [
     title: "Recipe Lookup",
  
     description:
-      "",
+      "Recipe Lookup is a dynamic web application that fetches data from a dummy JSON API to display a collection of recipes. Each recipe is presented in an easily readable card format, allowing users to explore various dishes seamlessly. Users can click on individual recipe cards to read detailed instructions and ingredients for each dish. The project is built using HTML, CSS, and JavaScript, ensuring a smooth and interactive user experience. ",
     image:
       "RecipeLookup.png",
     tags: [ "HTML5",
@@ -214,4 +214,6 @@ export const projects = [
  
  
 ];
+
+
 
