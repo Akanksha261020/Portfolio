@@ -4,8 +4,6 @@
 
 Developed a personal portfolio website using React Js, showcasing projects and skills. Implemented modern web technologies like HTML5, CSS3, and JavaScript. Integrated Git for version control.
 
-![Portfolio](Portfolio.png)
-
 ## Features
 
 - **React Js**: Utilized React Js to create dynamic and responsive components.
